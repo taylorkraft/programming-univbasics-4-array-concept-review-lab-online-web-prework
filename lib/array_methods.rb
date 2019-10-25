@@ -1,4 +1,5 @@
 def find_element_index(array, value_to_find)
+  
   value_to_find.each_with_index do
     puts #{n} is the index of value_to_find
 end
